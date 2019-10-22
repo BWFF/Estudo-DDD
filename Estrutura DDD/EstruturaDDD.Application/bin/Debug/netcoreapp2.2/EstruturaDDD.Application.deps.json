@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "EstruturaDDD.Application/1.0.0": {
+        "dependencies": {
+          "EstruturaDDD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EstruturaDDD.Application.dll": {}
+        }
+      },
+      "EstruturaDDD.Domain/1.0.0": {
+        "runtime": {
+          "EstruturaDDD.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstruturaDDD.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EstruturaDDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

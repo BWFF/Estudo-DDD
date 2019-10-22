@@ -1,0 +1,11 @@
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp2.2\EstruturaDDD.Dapper.deps.json
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp2.2\EstruturaDDD.Dapper.dll
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp2.2\EstruturaDDD.Dapper.pdb
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp2.2\EstruturaDDD.Domain.dll
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp2.2\EstruturaDDD.Domain.pdb
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\obj\Debug\netcoreapp2.2\EstruturaDDD.Dapper.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\obj\Debug\netcoreapp2.2\EstruturaDDD.Dapper.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\obj\Debug\netcoreapp2.2\EstruturaDDD.Dapper.AssemblyInfo.cs
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\obj\Debug\netcoreapp2.2\EstruturaDDD.Dapper.csproj.CopyComplete
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\obj\Debug\netcoreapp2.2\EstruturaDDD.Dapper.dll
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\obj\Debug\netcoreapp2.2\EstruturaDDD.Dapper.pdb

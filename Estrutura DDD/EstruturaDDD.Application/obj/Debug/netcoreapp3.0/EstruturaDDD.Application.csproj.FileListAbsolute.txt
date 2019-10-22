@@ -1,0 +1,11 @@
+C:\Users\willi\source\repos\Estrutura DDD\EstruturaDDD.Application\bin\Debug\netcoreapp3.0\EstruturaDDD.Application.deps.json
+C:\Users\willi\source\repos\Estrutura DDD\EstruturaDDD.Application\bin\Debug\netcoreapp3.0\EstruturaDDD.Application.dll
+C:\Users\willi\source\repos\Estrutura DDD\EstruturaDDD.Application\bin\Debug\netcoreapp3.0\EstruturaDDD.Application.pdb
+C:\Users\willi\source\repos\Estrutura DDD\EstruturaDDD.Application\bin\Debug\netcoreapp3.0\EstruturaDDD.Domain.dll
+C:\Users\willi\source\repos\Estrutura DDD\EstruturaDDD.Application\bin\Debug\netcoreapp3.0\EstruturaDDD.Domain.pdb
+C:\Users\willi\source\repos\Estrutura DDD\EstruturaDDD.Application\obj\Debug\netcoreapp3.0\EstruturaDDD.Application.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\Estrutura DDD\EstruturaDDD.Application\obj\Debug\netcoreapp3.0\EstruturaDDD.Application.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Estrutura DDD\EstruturaDDD.Application\obj\Debug\netcoreapp3.0\EstruturaDDD.Application.AssemblyInfo.cs
+C:\Users\willi\source\repos\Estrutura DDD\EstruturaDDD.Application\obj\Debug\netcoreapp3.0\EstruturaDDD.Application.csproj.CopyComplete
+C:\Users\willi\source\repos\Estrutura DDD\EstruturaDDD.Application\obj\Debug\netcoreapp3.0\EstruturaDDD.Application.dll
+C:\Users\willi\source\repos\Estrutura DDD\EstruturaDDD.Application\obj\Debug\netcoreapp3.0\EstruturaDDD.Application.pdb
