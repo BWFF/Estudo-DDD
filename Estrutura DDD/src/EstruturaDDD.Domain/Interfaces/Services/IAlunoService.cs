@@ -5,8 +5,7 @@ using System.Text;
 
 namespace EstruturaDDD.Domain.Interfaces.Services
 {
-    public interface IAlunoService:IBaseService<Aluno>
-    {
-        IEnumerable<Aluno> ObterTodos();
+    public interface IAlunoService : IBaseService<Aluno>
+    {        
     }
 }

@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace EstruturaDDD.WebApi.Controllers
 {
+    [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
     public class AlunoController : ControllerBase
@@ -20,9 +21,10 @@ namespace EstruturaDDD.WebApi.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Aluno> ObterTodos()
-        {
-            return _alunoService.ObterTodos();
+        [Route("ObterTodos")]
+        public ActionResult ObterTodos()
+        {                                    
+            return Ok(_alunoService.ObterTodos());
         }
     }
 }

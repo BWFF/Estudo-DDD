@@ -8,15 +8,15 @@ using System.Text;
 
 namespace EstruturaDDD.Dapper
 {
-    public class AlunoRepository : BaseRepository, IAlunoRepository
+    public class AlunoRepository : BaseRepository
     {
         public AlunoRepository(IConfiguration AppConfig) : base(AppConfig)
         {
         }
 
-        public IEnumerable<Aluno> ObterTodos()
+        public IEnumerable<Aluno> ObterTodosAlunos()
         {
-            using (Conexao conexao = new Conexao())
+            using (Conexao conexao = new Conexao(BdConnectionString))
             {
                 string script = @"SELECT IDTALUNO, CODALUNO, NOMEALUNO, CELALUNO, DTINICIOALUNO, DIAVENCALUNO, STATUSALUNO, VALORDESCONTOALUNO 
                                   FROM TBALUNOS";

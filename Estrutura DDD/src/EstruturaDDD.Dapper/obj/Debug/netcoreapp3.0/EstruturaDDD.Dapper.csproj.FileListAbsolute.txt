@@ -1,13 +1,13 @@
-C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp3.0\EstruturaDDD.Dapper.deps.json
-C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp3.0\EstruturaDDD.Dapper.dll
 C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\obj\Debug\netcoreapp3.0\EstruturaDDD.Dapper.csprojAssemblyReference.cache
 C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\obj\Debug\netcoreapp3.0\EstruturaDDD.Dapper.AssemblyInfoInputs.cache
 C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\obj\Debug\netcoreapp3.0\EstruturaDDD.Dapper.AssemblyInfo.cs
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp3.0\EstruturaDDD.Dapper.deps.json
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp3.0\EstruturaDDD.Dapper.dll
 C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp3.0\EstruturaDDD.Dapper.pdb
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp3.0\BancoDeDados.dll
 C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp3.0\EstruturaDDD.Domain.dll
+C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp3.0\BancoDeDados.pdb
 C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp3.0\EstruturaDDD.Domain.pdb
 C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\obj\Debug\netcoreapp3.0\EstruturaDDD.Dapper.csproj.CopyComplete
 C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\obj\Debug\netcoreapp3.0\EstruturaDDD.Dapper.dll
 C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\obj\Debug\netcoreapp3.0\EstruturaDDD.Dapper.pdb
-C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp3.0\BancoDeDados.dll
-C:\Users\willi\source\repos\Estrutura DDD\src\EstruturaDDD.Dapper\bin\Debug\netcoreapp3.0\BancoDeDados.pdb

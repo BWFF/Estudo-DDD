@@ -10,9 +10,9 @@ namespace BancoDeDados
     {
         private readonly SqlConnection _conexao;
 
-        public Conexao()
+        public Conexao(string strConexao)
         {
-            _conexao = new SqlConnection(ConfigurationManager.ConnectionStrings["BDSqlServer"].ConnectionString);
+            _conexao = new SqlConnection(strConexao);
         }
 
         public SqlDataReader Consultar(string pComando)

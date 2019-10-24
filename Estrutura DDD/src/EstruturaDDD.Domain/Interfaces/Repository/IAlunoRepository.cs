@@ -7,6 +7,6 @@ namespace EstruturaDDD.Domain.Interfaces.Repository
 {
     public interface IAlunoRepository: IBaseRepository<Aluno>
     {
-        IEnumerable<Aluno> ObterTodos();
+        IEnumerable<Aluno> ObterTodosAlunoss();
     }
 }

@@ -9,7 +9,12 @@ namespace EstruturaDDD.Application
 {
     public class AlunoApp : IAlunoApp
     {
-        private IAlunoRepository _alunoRepository;
+        private readonly IAlunoRepository _alunoRepository;
+
+        public AlunoApp(IAlunoRepository alunoRepository)
+        {
+            _alunoRepository = alunoRepository;
+        }
 
         public IEnumerable<Aluno> ObterTodos()
         {

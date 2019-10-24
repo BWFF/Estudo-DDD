@@ -1,8 +1,7 @@
 C:\Users\willi\source\repos\Estrutura DDD\src\BancoDeDados\bin\Debug\netcoreapp3.0\BancoDeDados.deps.json
 C:\Users\willi\source\repos\Estrutura DDD\src\BancoDeDados\bin\Debug\netcoreapp3.0\BancoDeDados.dll
+C:\Users\willi\source\repos\Estrutura DDD\src\BancoDeDados\bin\Debug\netcoreapp3.0\BancoDeDados.pdb
 C:\Users\willi\source\repos\Estrutura DDD\src\BancoDeDados\obj\Debug\netcoreapp3.0\BancoDeDados.AssemblyInfoInputs.cache
 C:\Users\willi\source\repos\Estrutura DDD\src\BancoDeDados\obj\Debug\netcoreapp3.0\BancoDeDados.AssemblyInfo.cs
-C:\Users\willi\source\repos\Estrutura DDD\src\BancoDeDados\obj\Debug\netcoreapp3.0\BancoDeDados.csprojAssemblyReference.cache
-C:\Users\willi\source\repos\Estrutura DDD\src\BancoDeDados\bin\Debug\netcoreapp3.0\BancoDeDados.pdb
 C:\Users\willi\source\repos\Estrutura DDD\src\BancoDeDados\obj\Debug\netcoreapp3.0\BancoDeDados.dll
 C:\Users\willi\source\repos\Estrutura DDD\src\BancoDeDados\obj\Debug\netcoreapp3.0\BancoDeDados.pdb
